@@ -2,6 +2,11 @@ package org.example;
 import java.util.Calendar;
 import java.util.Scanner;
 
+/*
+ *  UCF COP3330 Summer 2021 Exercise 6 Solution
+ *  Copyright 2021 Drake Scott
+ */
+
 public class retirement {
     public static void main(String[] args){
 
